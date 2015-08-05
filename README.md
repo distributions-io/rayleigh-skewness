@@ -6,8 +6,8 @@ Skewness
 
 The [skewness](https://en.wikipedia.org/wiki/skewness) for a [Rayleigh](https://en.wikipedia.org/wiki/Rayleigh_distribution) random variable is
 
-<div class="equation" align="center" data-raw-text="\operatorname{}\left[ X \right] = " data-equation="eq:skewness">
-	<img src="" alt="skewness for a Rayleigh distribution.">
+<div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = \frac{2\sqrt{\pi}(\pi - 3)}{(4 - \pi)^\frac{3}{2}} \approx 0.631 " data-equation="eq:skewness">
+	<img src="https://cdn.rawgit.com/distributions-io/rayleigh-skewness/fb13e1c4415042019e172ef103386ff17e8c84a4/docs/img/eqn.svg" alt="Skewness for a Rayleigh distribution.">
 	<br>
 </div>
 
