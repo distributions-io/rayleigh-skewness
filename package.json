@@ -20,7 +20,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/compute-io/rayleigh-skewness.git"
+    "url": "git://github.com/distributions-io/rayleigh-skewness.git"
   },
   "keywords": [
     "distributions.io",
@@ -33,7 +33,7 @@
     "dispersion"
   ],
   "bugs": {
-    "url": "https://github.com/compute-io/rayleigh-skewness/issues"
+    "url": "https://github.com/distributions-io/rayleigh-skewness/issues"
   },
   "dependencies": {
     "compute-array-constructors": "^1.0.0",
